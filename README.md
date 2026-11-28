@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/winter-banner.svg" alt="Lavish Chauhan - Student and Web Developer" width="100%" />
+  <img src="./assets/winter-banner.svg" alt="Lavish Chauhan - Student and Developer" width="100%" />
 </p>
 
 ## ❄️ About Me
-I'm **Lavish Chauhan**, a student and developer who enjoys building **websites**. I like learning new technologies and turning ideas into working solutions.
+I'm **Lavish Chauhan**, a student and developer who enjoys **coding**. I like learning new technologies and turning ideas into working solutions.
 
 ## 🏔️ GitHub Stats
 <p align="center">
@@ -18,6 +18,7 @@ I'm **Lavish Chauhan**, a student and developer who enjoys building **websites**
 ## 🧊 Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
