@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/winter-banner.svg" alt="Lavish Chauhan - Student and Developer" width="100%" />
+  <img src="./assets/winter-banner.svg" alt="Lavish Chauhan - Student and Web Developer" width="100%" />
 </p>
 
 ## ❄️ About Me
-I'm **Lavish Chauhan**, a student and developer focused on building **websites** and **Python** projects. I enjoy learning new technologies and turning ideas into working solutions.
+I'm **Lavish Chauhan**, a student and developer who enjoys building **websites**. I like learning new technologies and turning ideas into working solutions.
 
 ## 🏔️ GitHub Stats
 <p align="center">
