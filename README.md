@@ -26,7 +26,7 @@ I'm **Lavish Chauhan**, a student and developer who enjoys **coding**. I like le
 
 ## ☃️ Contribution Snake
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=phoenix001op&theme=github-dark&style=snake" alt="Animated GitHub contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/phoenix001op/phoenix001op/output/winter-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 </p>
 
 <img src="./assets/winter-footer.svg" alt="" width="100%" />
